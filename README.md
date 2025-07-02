@@ -7,4 +7,4 @@ Abstract: General surgical understanding aims to develop models that generalize 
 
 
 
-[![Watch the video]([https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY](https://youtu.be/jjSKvIwqzkA?feature=shared))
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
